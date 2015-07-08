@@ -1,0 +1,32 @@
+{
+  "run": [
+    {
+      "filePath": "/sapui5-demo/index.html",
+      "previewMode": 0,
+      "dataMode": 1,
+      "workspace": "withoutWorkspace",
+      "ui5ActiveVersion": null,
+      "isDefaultVersion": 0,
+      "urlParameters": [],
+      "_metadata": {
+        "runnerId": "webapprunner",
+        "id": 4416000,
+        "displayName": "New Web Application 1"
+      }
+    },
+    {
+      "filePath": "/helloworld/index.html",
+      "previewMode": 0,
+      "dataMode": 1,
+      "workspace": "withoutWorkspace",
+      "ui5ActiveVersion": null,
+      "isDefaultVersion": 0,
+      "urlParameters": [],
+      "_metadata": {
+        "runnerId": "webapprunner",
+        "id": 3594130,
+        "displayName": "New Web Application"
+      }
+    }
+  ]
+}
